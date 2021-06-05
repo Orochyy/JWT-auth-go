@@ -78,7 +78,7 @@ func main() {
 	// create a serve mux
 	sm := mux.NewRouter()
 
-	// register handlers
+	// reg handlers
 	postR := sm.Methods(http.MethodPost).Subrouter()
 
 	mailR := sm.PathPrefix("/verify").Methods(http.MethodPost).Subrouter()
