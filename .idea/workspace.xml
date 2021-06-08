@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a99299a7-129b-48af-9851-019c11d25190" name="Default Changelist" comment="pizdec" />
+    <list default="true" id="a99299a7-129b-48af-9851-019c11d25190" name="Default Changelist" comment="pizdec 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +31,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gosessTwo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RunManager" selected="Docker.Dockerfile">
@@ -82,7 +82,8 @@
     <MESSAGE value="first push" />
     <MESSAGE value="pls   run" />
     <MESSAGE value="pizdec" />
-    <option name="LAST_COMMIT_MESSAGE" value="pizdec" />
+    <MESSAGE value="pizdec 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="pizdec 2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
