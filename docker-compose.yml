@@ -27,7 +27,7 @@ services:
     image: postgres:alpine
     container_name: database
     environment:
-      POSTGRES_PASSWORD: "mysterio"
+      POSTGRES_PASSWORD: "mysterioq"
       POSTGRES_USER: "orochyy"
     ports:
       - 5432:5432
