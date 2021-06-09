@@ -28,6 +28,6 @@ services:
     container_name: database
     environment:
       POSTGRES_PASSWORD: "mysterio"
-      POSTGRES_USER: "orochy"
+      POSTGRES_USER: "orochyy"
     ports:
       - 5432:5432
